@@ -60,7 +60,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<hr>
 
-Setup Project:
+Setup Project:<br>
 Food ordering system with laravel 8.this is a mini-food ordering system. Used for ordering food from any restaurant of your choice.
 At first, you have to download the project code here, then you have a create a database name it food. After creating the database just import the SQL file.SQL file are giving in the database folder. Upload the SQL file and enjoy the project. Thanks
